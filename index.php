@@ -1,7 +1,7 @@
 <?php
 
 # 0. Loading limonade framework
-require_once 'vendors/limonade.php';
+require_once 'vendors/fsl.php';
 
 # 1. Setting global options of our application
 function configure() {
